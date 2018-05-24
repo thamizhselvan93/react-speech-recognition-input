@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/somonus/react-speech-recognition-input#readme",
   "peerDependencies": {
-    "react": ">=0.14.2",
+    "react": "15.6.1",
     "react-dom": ">=0.14.2"
   },
   "devDependencies": {
